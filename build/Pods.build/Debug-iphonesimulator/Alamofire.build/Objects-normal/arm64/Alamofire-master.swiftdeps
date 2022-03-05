@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "e5ab5e9422a53ba45284d18bd4db99f7d23d5b063ef0ee7da37f5de7eaca9930"
+build_start_time: [1646522187, 328249931]
+build_end_time: [1646522188, 350623130]
+inputs:
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/AFError.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Alamofire.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/MultipartFormData.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/NetworkReachabilityManager.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Notifications.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/ParameterEncoding.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Request.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Response.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/ResponseSerialization.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Result.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/ServerTrustPolicy.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/SessionDelegate.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/SessionManager.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/TaskDelegate.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Timeline.swift": !private [1618887543, 0]
+  "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/Pods/Alamofire/Source/Validation.swift": !private [1618887543, 0]

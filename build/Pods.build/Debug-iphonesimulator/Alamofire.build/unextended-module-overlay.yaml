@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sam/Desktop/CodePath iOS Coursework/Twitter/build/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap",
+    }]
+  }]
+}
